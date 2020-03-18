@@ -1,1 +1,1 @@
-# B2-interface-design-bootstrap-2020-hugoleude
+# B2-interface-design-bootstrap-2020
